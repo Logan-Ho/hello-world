@@ -1,2 +1,2 @@
 # hello-world
-easy com easy go
+easy come easy go
